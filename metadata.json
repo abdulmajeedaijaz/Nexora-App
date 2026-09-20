@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA - Modern Girls' & Women's Fashion",
+  "description": "Premium modern girls' and women's fashion e-commerce platform featuring girls' footwear, dynamic category expansion, multi-step checkout, size guide studio, and full admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
